@@ -32,7 +32,7 @@ for receiverMail in maillist:
             </style>
         </head>
         <body>
-            <h1>Hey there LearnYuva Members</h1>
+            <h1>Hey there,</h1>
             <h5>Here's a mail made in HTML, which was sent to you using python.</h5>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
